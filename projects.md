@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: projects
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Here are some of the projects I have recently worked on! Please take a look. Every project here is under the MIT License, meaning feel free to copy and experiment with it. If you see anything that doesn't quite work, please let me know.  
 </p>
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
