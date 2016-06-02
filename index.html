@@ -9,35 +9,12 @@ layout: default
   to get in touch!
 </p>
 
+<div id="main" role="main" class="container">
+  <div>
+Hello,<br>
+I am Kevin Carlson. I am currently in my senior year as a Computer Science major at the University of California, Berkeley. I am currently seeking full-time opportunities for when I graduate in May 2016. This website will serve as my homepage and will host an up to date copy of my resume as well as maintain links to various projects I am currently working on. Additionally, this site also contains a blog which I update periodically with my own thoughts and photography. I hope you enjoy your visit!<br>
+- Kevin Carlson
 
-
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    {{ post.content }}
   </div>
-  {% endfor %}
+
 </div>
-<!--
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
--->
