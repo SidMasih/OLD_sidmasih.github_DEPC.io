@@ -1,7 +1,52 @@
 ---
 layout: default
 ---
+<style>
+.media {
+  // Proper spacing between instances of .media
+  margin-top: 15px;
 
+  &:first-child {
+    margin-top: 0;
+  }
+}
+
+.media-right,
+.media > .pull-right {
+  padding-left: 10px;
+}
+
+.media-left,
+.media > .pull-left {
+  padding-right: 10px;
+}
+
+.media-left,
+.media-right,
+.media-body {
+  display: table-cell;
+  vertical-align: top;
+}
+
+.media-middle {
+  vertical-align: middle;
+}
+
+.media-bottom {
+  vertical-align: bottom;
+}
+
+
+.media-heading {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.media-list {
+  padding-left: 0;
+  list-style: none;
+}
+</style>
 <p class="message">
   Hi and welcome to my small corner of the internet. My name is Sid and this page gives
   a little bit of information about me. Please click on the projects button if you wish to see
@@ -20,5 +65,17 @@ I am Anant Sahai. I am currently in my sophomore year as a Computer Science majo
 
 
   </div>
+<!-- begin exp -->
+<div class="media">
+  <img src="http://www.gravatar.com/avatar/272aa672af8ed635b8062adf9d23bf8e.jpg" alt="Ronald Kwan" class="pull-left">
+  <div class="media-body">
+    <h4 class="media-heading">Ronald Kwan</h4>
+    <ul class="media-list">
+      <li><a href="mailto:ronaldskwan@gmail.com">Email</a></li>
+      <li><a href="https://github.com/rskwan/">GitHub</a></li>
+    </ul>
+  </div>
+</div>
+  <!-- end exp -->
 
 </div>
