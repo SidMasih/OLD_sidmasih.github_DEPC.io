@@ -36,6 +36,7 @@ title: Projects
 * Bootstrap for front end, Jekyll for CMS
 * Deployed on Heroku
 * Check out the code: [Repo](https://github.com/SidMasih/churchwebsite)
+
 ## Berkeley Computer Science Undergraduate Association Office Message Board
 * Built HTML message board for my club hosted on Github Pages 
 * Displays upcomming events as well as company sponsors
