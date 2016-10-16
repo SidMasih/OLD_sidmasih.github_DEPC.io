@@ -4,27 +4,68 @@ title: Projects
 ---
 
 <p class="message">
-  Here are some of the projects I have recently worked on! Please take a look. Every project here is under the MIT License, meaning feel free to copy and experiment with it. If you see anything that doesn't quite work, please let me know.  
+  Here are some of the projects I have recently worked on! Please take a look. To students potentially cheating on school projects ... don't... you will get caught. If you have found this website you must be feeling pressured. I understand how you feel (I was once there). Go to office hours and ask your peers, but do not copy code! 
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Berkeley EECS CS 169 Team Selector and Manager
 
-There are currently two themes built on Poole:
+* Building web app for students to find and select teams and assign discussion sections and course entry priorities
+* Allow students to create and build teams and choose discussion sections for CS 169, a project based class
+* Use Stable Marriage algorithm to help match discussion sections with student prefferences 
+* Distributes course passwords for enrollment and allows EECS staff to easily manage students 
+* Built in Rails, Bootstrap, and SQL
+* Tested with Cucumber, RSpec, Travis CI, and Capybara
+* Built with 5 person team, focused on proper application developement with Agile Development 
+* Currently used by about 200 students during class scheduling
+* Check out the code: [Repo](https://github.com/adnanhemani/enrollme)
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## Berkeley EECS Company Recruiting Manager
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* Building web app, with a couple of friends, for student groups and EECS staff to manage scheduling of company events in one unfied portal
+* Allow groups to add info sessions, companies to request info sessions, and staff to aprove, deny, and view the status of info sessions
+* Implementation should reduce company info session event conflicts, such as when Goldman Sachs, Facebook, and State Farm all were scheduled accidently on the same day
+* Distributes course passwords for enrollment and allows EECS staff to easily manage students 
+* Built in Rails, Bootstrap, and SQL
+* Currently a side project, hope it will get aproved for use in EECS 
+* In advanced planning stages, code not ready or clean enough for viewing! 
 
-## Setup
+## Bearmaps
 
-Some fun facts about the setup of this project include:
+## Journey Christian Fellowship Website
+* Built new front end information website for my church
+* Bootstrap for front end, Jekyll for CMS
+* Deployed on Heroku
+* Check out the code: [Repo](https://github.com/SidMasih/churchwebsite)
+## Berkeley Computer Science Undergraduate Association Office Message Board
+* Built HTML message board for my club hosted on Github Pages 
+* Displays upcomming events as well as company sponsors
+* Jekyll for CMS
+* Check out the code: [Repo](https://github.com/csuabb/csuabb.github.io)
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+## Linear Algebra Library in Java
+* Built new matrix data type for education purposes, replacing old library in C++ for high school teacher
+* Completed the project with operations such as add, subtract, multiply matrices, invert matrices, transpose matrices, row reduce matrices, find eigenvalues using QR, find vector projections, and perform regression with different sorts of functions given a set of points
+* Students are expected to complete as much as possible, with the best students being able to implement regressions  
+* Check out the code! [Repo](https://github.com/SidMasih/LinearAlgebraOperations)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+## Drakify - Built at CalHacks 2.0 
+* in 36 hours, created a web application that returns the video output of a song based on the speech input (lyrics or title) given by user
+* Created an algorithm to search for lyrics ‘phrase-by-phrase’ reducing search time and improving accuracy.
+* Worked on intergrating Rap Genius api with hack
+* Awarded "joke" award for best use of [Drake](http://www.drakeofficial.com/) in a Hack. While not a very serious award, we did win something!
+* My first hackathon! :) 
+* Built using Node.JS, RapGenius, and Google Web Speech 
+* Check out what code looks like with 36 hours of no sleep and a case of Red Bull (it's not that great but hey it works!) [Repo](https://github.com/rrtigga/drakify) 
+
+## The City Club of San Diego App
+* App built for high school teacher's friend who wanted a way to easily push information from an existing blog to a mobile app
+* Used RSS parsing to pull the article and put it into a mobile view of the blog
+* Focused on ease of use for my teacher's friend, since he was not technology adept at other CMS
+* Built for iOS as an internal tool
+* Check out the code! [Repo](https://github.com/SidMasih/City-Club-App)
+
+
+
+
 
 Thanks for reading!
