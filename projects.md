@@ -74,12 +74,12 @@ title: Projects
   <div class="media-body">
     <h4 class="media-heading">Sid Masih</h4>
     <ul class="media-list">
-      Contact me! 
+      Quick Links! 
       <li><a href="mailto:sid.masih@berkeley.edu">Email</a></li>
       <li><a href="https://github.com/SidMasih/">GitHub</a></li>
+      <li><a href="https://drive.google.com/file/d/0B-jZSHo3nEE7cmZJLVhTX0l2MHM/view?usp=sharing">Resume</a></li>
       <li><a href="https://www.linkedin.com/in/sid-masih-65b54382">LinkedIn</a></li>
-      <li><a href="https://www.facebook.com/sid.masih.3">Facebook</a></li>
-      <li><a href="http://csua.berkeley.edu/politburo/">CSUA</a></li>
+
     </ul>
   </div>
 </div>
