@@ -87,7 +87,7 @@ title: Projects
   Here are some of the projects I have recently worked on! Please take a look. To students potentially cheating on school projects ... don't... you will get caught. If you have found this website you must be feeling pressured. I understand how you feel (I was once there). Go to office hours and ask your peers, but do not copy code! 
 </p>
 
-## Berkeley EECS CS 169 Team Selector and Manager
+## Berkeley CS 169 Team Manager
 
 * Building web app for students to find and select teams and assign discussion sections and course entry priorities
 * Allow students to create and build teams and choose discussion sections for CS 169, a project based class
@@ -99,7 +99,7 @@ title: Projects
 * Currently used by about 200 students during class scheduling
 * Check out the code: [Repo](https://github.com/adnanhemani/enrollme)
 
-## Berkeley EECS Company Recruiting Manager
+## Berkeley EECS Corporate Recruiting Portal
 
 * Building web app, with a couple of friends, for student groups and EECS staff to manage scheduling of company events in one unfied portal
 * Allow groups to add info sessions, companies to request info sessions, and staff to aprove, deny, and view the status of info sessions
@@ -110,6 +110,25 @@ title: Projects
 * In advanced planning stages, code not ready or clean enough for viewing! 
 
 ## Bearmaps
+* Web mapping application, inspired by GoogleMaps and OpenStreetMap project 
+* Included a map of Berkeley with presized tiles from OpenStreetMap, image rastering, image zoom, route search, and rendering highlighted routes on map
+* Implement A* and quadtree image zoom 
+* Built in Java and Maven
+* Check out the code: [Download]({{ site.url }}/download/BearMaps.zip)
+* Do not share this code (it is not on github for a reason!)
+
+## TextEditor
+* Built a text editor from scratch 
+* Implemented features such as cursor movement, word wrapping, backspace, calculating new lines, open files, save files, arrow movement, mouse input, window re-sizing, undo, redo, and various font size options.
+* Check out the code: [Download]({{ site.url }}/download/TextEditor.zip)
+* Do not share this code (it is not on github for a reason!)
+
+## MIPS Assembler and Linker
+* Impelement a large subset of MIPS Assembly Language and translate it into executable machine code
+* Include support for pseudo instructions and error detection
+* Includes linker to translate .out files into fully executable files
+* Assembler built in C, Linker built in MIPS
+* Code witheld by request, email me directly to see this project! 
 
 ## Journey Christian Fellowship Website
 * Built new front end information website for my church
@@ -130,7 +149,7 @@ title: Projects
 * Check out the code! [Repo](https://github.com/SidMasih/LinearAlgebraOperations)
 
 ## Drakify - Built at CalHacks 2.0 
-* in 36 hours, created a web application that returns the video output of a song based on the speech input (lyrics or title) given by user
+* In 36 hours, created a web application that returns the video output of a song based on the speech input (lyrics or title) given by user
 * Created an algorithm to search for lyrics ‘phrase-by-phrase’ reducing search time and improving accuracy.
 * Worked on intergrating Rap Genius api with hack
 * Awarded "joke" award for best use of [Drake](http://www.drakeofficial.com/) in a Hack. While not a very serious award, we did win something!
@@ -149,4 +168,4 @@ title: Projects
 
 
 
-Thanks for reading!
+Thanks for reading! Email me if you have any questions. 
