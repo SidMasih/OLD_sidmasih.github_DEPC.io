@@ -2,7 +2,87 @@
 layout: page
 title: Projects
 ---
+<style>
+.media {
+  // Proper spacing between instances of .media
+  margin-top: 15px;
+  position: absolute;
+   right: 30px;
+   top: 4em;
 
+
+  &:first-child {
+    margin-top: 0;
+  }
+}
+
+@media (max-width: 1110px) {
+  .media {
+    display: none;
+  }
+  .media-left,
+.media > .pull-left {
+  display: none;
+}
+}
+
+}
+
+.media-right,
+.media > .pull-right {
+  padding-left: 10px;
+}
+
+.media-left,
+.media > .pull-left {
+  padding-right: 10px;
+  height: auto;
+   width: auto;
+   max-width: 150px;
+   max-height: 200px;
+}
+
+.media-left,
+.media-right,
+.media-body {
+  display: table-cell;
+  vertical-align: top;
+}
+
+.media-middle {
+  vertical-align: middle;
+}
+
+.media-bottom {
+  vertical-align: bottom;
+}
+
+
+.media-heading {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.media-list {
+  padding-left: 0;
+  list-style: none;
+}
+</style>
+
+<div class="media">
+  <img src="https://raw.githubusercontent.com/SidMasih/sidmasih.github.io/master/sidphoto.jpg" alt="Sid Masih" class="pull-left">
+  <div class="media-body">
+    <h4 class="media-heading">Sid Masih</h4>
+    <ul class="media-list">
+      Contact me! 
+      <li><a href="mailto:sid.masih@berkeley.edu">Email</a></li>
+      <li><a href="https://github.com/SidMasih/">GitHub</a></li>
+      <li><a href="https://www.linkedin.com/in/sid-masih-65b54382">LinkedIn</a></li>
+      <li><a href="https://www.facebook.com/sid.masih.3">Facebook</a></li>
+      <li><a href="http://csua.berkeley.edu/politburo/">CSUA</a></li>
+    </ul>
+  </div>
+</div>
 <p class="message">
   Here are some of the projects I have recently worked on! Please take a look. To students potentially cheating on school projects ... don't... you will get caught. If you have found this website you must be feeling pressured. I understand how you feel (I was once there). Go to office hours and ask your peers, but do not copy code! 
 </p>
