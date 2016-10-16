@@ -120,6 +120,7 @@ title: Projects
 ## TextEditor
 * Built a text editor from scratch 
 * Implemented features such as cursor movement, word wrapping, backspace, calculating new lines, open files, save files, arrow movement, mouse input, window re-sizing, undo, redo, and various font size options.
+* Built in Java
 * Check out the code: [Download]({{ site.url }}/download/TextEditor.zip)
 * Do not share this code (it is not on github for a reason!)
 
@@ -156,6 +157,11 @@ title: Projects
 * My first hackathon! :) 
 * Built using Node.JS, RapGenius, and Google Web Speech 
 * Check out what code looks like with 36 hours of no sleep and a case of Red Bull (it's not that great but hey it works!) [Repo](https://github.com/rrtigga/drakify) 
+
+## sidmasih.github.io
+* My personal website (this website)
+* Built using Jekyll as the CMS
+* Hosted on Github Pages 
 
 ## The City Club of San Diego App
 * App built for high school teacher's friend who wanted a way to easily push information from an existing blog to a mobile app
