@@ -77,7 +77,7 @@ title: Projects
       Quick Links! 
       <li><a href="mailto:sid.masih@berkeley.edu">Email</a></li>
       <li><a href="https://github.com/SidMasih/">GitHub</a></li>
-      <li><a href="https://drive.google.com/file/d/0B-jZSHo3nEE7cmZJLVhTX0l2MHM/view?usp=sharing">Resume</a></li>
+      <li><a href="https://drive.google.com/file/d/0B3_s9pDvd-tEc0h3TVRlcFJWUU0/view?usp=sharing">Resume</a></li>
       <li><a href="https://www.linkedin.com/in/sid-masih-65b54382">LinkedIn</a></li>
 
     </ul>
