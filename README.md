@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/SidMasih/sidmasih.github.io.png?label=ready&title=Ready)](https://waffle.io/SidMasih/sidmasih.github.io?utm_source=badge)
 # Sid's personal website  
 ## Author
 
