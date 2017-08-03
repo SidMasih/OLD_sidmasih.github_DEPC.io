@@ -114,14 +114,12 @@ title: Projects
 * Included a map of Berkeley with presized tiles from OpenStreetMap, image rastering, image zoom, route search, and rendering highlighted routes on map
 * Implement A* and quadtree image zoom 
 * Built in Java and Maven
-* Check out the code: [Download]({{ site.url }}/download/BearMaps.zip)
 * Do not share this code (it is not on github for a reason!)
 
 ## TextEditor
 * Built a text editor from scratch 
 * Implemented features such as cursor movement, word wrapping, backspace, calculating new lines, open files, save files, arrow movement, mouse input, window re-sizing, undo, redo, and various font size options.
 * Built in Java
-* Check out the code: [Download]({{ site.url }}/download/TextEditor.zip)
 * Do not share this code (it is not on github for a reason!)
 
 ## MIPS Assembler and Linker
